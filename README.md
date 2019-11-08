@@ -8,6 +8,7 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud?fbclid=IwAR0ahRSoyPRu6mlitpuNxWSy
 
 The data on which the analysis was performed is a stratified, randomly selected subset of original data, which contains only 75% of original records. It can be downloaded using this link:
 https://drive.google.com/drive/folders/1Pef3U6Zg7crdS79u4n101nEs8TqUmabK?fbclid=IwAR3TJqCw5Myt1unlkw07ZUSzNY-FSL-Fubrtum0jCx-B5CDRsLbXhIci8x0
+
 The remaining 25% of observations (which is not provided in this repository) will serve as testing data for final comparison of models during "Gauss" meeting.
 
 The modified dataset contains 369 frauds out of 213605 transactions which makes the dataset highly unbalanced. In regard to this fact, the Area Under the Precision-Recall Curve (AUPRC) was considered as a metric for evaluating models.
